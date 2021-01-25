@@ -124,14 +124,14 @@ Malware Configuration Parser by @kevthehermit
  'dns': '213.208.129.211',
  'extensionname': 'qQJ',
  'folder': 'java',
- 'instalar': 'true',
+ 'installer': 'true',
 
 
 ```
 
 ### Library
 
-If you pip install you can also use it is a library. 
+If you pip install you can also use it as a library. 
 
 ```
 from malwareconfig import fileparser
